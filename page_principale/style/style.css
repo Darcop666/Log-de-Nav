@@ -16,5 +16,21 @@
     display: flex;
     justify-content: center;
     gap: 15%;
-    margin: 100px;
+    margin: 150px;
+}
+
+button {
+    margin-top: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+body {
+    background-image: url(https://aerozach.fr/wp-content/uploads/2022/10/ciel-orage-scaled.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
