@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.conteneur {
+    background-color: bisque;
+    border-radius: 5%;
+    border-color: darksalmon;
+    border-style: solid;
+    padding: 2%;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 1%;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 15px;
+}

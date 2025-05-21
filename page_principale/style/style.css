@@ -1,0 +1,20 @@
+.itineraire {
+    width: auto;
+    max-width: 45%;
+    align-items: end;
+    margin: 2%;
+}
+
+.avion {
+    width: auto;
+    max-width: 45%;
+    align-items: baseline;
+    margin: 2%;
+}
+
+.conteneur {
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+    margin: 100px;
+}

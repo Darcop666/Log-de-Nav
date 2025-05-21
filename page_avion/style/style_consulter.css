@@ -1,0 +1,28 @@
+label {
+    display: inline-block;
+    width: 175px;
+}
+
+.conteneur {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 25px;
+    margin-top: 25px;
+}
+
+.avion {
+    width: 21%;
+    border-radius: 5%;
+    background-color: bisque;
+    border-color: darksalmon;
+    border-style: solid;
+    padding: 1%;
+}
+
+body {
+    background-image: url('https://teebo.eu/user/pages/06.1mono2voiles/Nuages/altocumulus.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

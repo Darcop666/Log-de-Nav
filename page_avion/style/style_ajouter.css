@@ -1,0 +1,29 @@
+label {
+    display: inline-block;
+    width: 250px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-image: url('https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-35b0-620a-acf6-55d16c9484c9/raw?se=2025-05-20T13%3A40%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=12496173-cdad-50e0-8005-733eba278d87&skoid=b928fb90-500a-412f-a661-1ece57a7c318&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-19T23%3A49%3A43Z&ske=2025-05-20T23%3A49%3A43Z&sks=b&skv=2024-08-04&sig=S/LlUVcFzk7BqRLSzhL8ukCFlCs767iuWxFHy1jHwso%3D');
+    background-repeat: no-repeat;
+    background-position: 0px -360px;
+    background-size: cover;
+}
+
+.conteneur {
+    font-size: 1.5rem;
+    background-color: bisque;
+    border-radius: 50px;
+    border-color: darksalmon;
+    border-style: solid;
+    padding: 2%;
+}
+
+input {
+    font-size: 1.5rem;
+}
